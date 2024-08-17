@@ -1,3 +1,15 @@
-h1 {
-    background-color: navy;
-}
+body {
+    background-color: green;
+    font-family: sans-serif;
+    text-align:center;     
+  }
+  section {
+    border: 2px solid black;   
+  }
+  #header {
+    border-bottom: 20px;
+  }
+  button {
+    background-color: #A54800;
+    color: #fff3EB;
+  }
